@@ -18,4 +18,4 @@ Go to the client/ folder and:
 ## Use Instructions
 
 1. Go to the backend/ folder and run php artisan serve
-2. Go to the frontend/ folder and run yarn start
+2. Go to the client/ folder and run yarn start
